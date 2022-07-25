@@ -1,0 +1,6 @@
+
+
+so far we learned git flow for 
+commmit--> push
+ ande
+ remote-> local
